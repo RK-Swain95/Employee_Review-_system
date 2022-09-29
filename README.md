@@ -1,5 +1,8 @@
 # Employee_Review-_system
 
+Admin email -> "coding@gmail.com"
+password  -> "1"
+
 Description
 
 A greate project which is use to submit review against each other for employees. And there is an admin who can see all employees, he can delete any of employee and he can create any employee. An admin can create any employee to admin
