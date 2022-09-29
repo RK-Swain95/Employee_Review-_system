@@ -18,11 +18,11 @@ Login
 Register
 
 Directory Structure
-/assets/css - all css code
-/assets/img - all the images
-/config - MongooDB Atlas Configuration
-/controllers - questions & option controllers code
-/model - review and users.
-/routes - all routes according to admin and employee is here
-/views - all ejs files
-index.js - entry file
+ /assets/css - all css code
+ /assets/img - all the images
+ /config - MongooDB Atlas Configuration
+ /controllers - questions & option controllers code
+ /model - review and users.
+ /routes - all routes according to admin and employee is here
+ /views - all ejs files
+ /index.js - entry file
